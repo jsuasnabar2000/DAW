@@ -1,0 +1,28 @@
+{
+  "empleados": [
+    {
+      "nombre": "Jaime Suasnabar",
+      "empresa": "Galaxy Soft",
+      "email": "correo@correo.com",
+      "telefono": "4545454545",
+      "notas": "Nada",
+      "id": 1
+    },
+    {
+      "nombre": "Jimena",
+      "empresa": "Tasal nao",
+      "email": "correo@correo.com",
+      "telefono": "4545454545",
+      "notas": "Nada",
+      "id": 2
+    },
+    {
+      "nombre": "Gaby Jimena",
+      "empresa": "Truls mun",
+      "email": "corero@gmail.com",
+      "telefono": "45778888",
+      "notas": "poco",
+      "id": 3
+    }
+  ]
+}
