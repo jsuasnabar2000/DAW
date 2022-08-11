@@ -1,0 +1,20 @@
+{
+  "empleados": [
+    {
+      "nombre": "Jaime Suasnabar",
+      "direccion": "Jr. Junin 130",
+      "email": "jsuasnabar2000@gmail.com",
+      "telefono": "457888",
+      "notas": "Nada",
+      "id": 1
+    },
+    {
+      "nombre": "Ppedro",
+      "direccion": "dsdds dsddssdds",
+      "email": "aaa@correo.com",
+      "telefono": "45555",
+      "notas": "nada",
+      "id": 2
+    }
+  ]
+}
